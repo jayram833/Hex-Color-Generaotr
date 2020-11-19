@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+.window {
+  padding-top: 200px;
+}
+
+.text {
+  font-family: sans-serif;
+  font-size: 30px;
+}
+
+button {
+  cursor: pointer;
+  font-size: 30px;
+  border: 3px solid;
+  background-color: white;
+  border-radius: 8px;
+}
